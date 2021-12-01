@@ -10,7 +10,7 @@ export default defineComponent({
   mounted () {
     this.$storage.setItem('name', {
       name: 'fan',
-      name2: 'xining'
+      name2: 'x'
     })
   }
 })
